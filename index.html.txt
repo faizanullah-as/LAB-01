@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>224 web technologies course<title>
+    </head>
+    <body>
+    <h1>welcome to 224 web tecnologies course<h1>
+    </body>
+    </html>
